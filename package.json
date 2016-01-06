@@ -11,13 +11,13 @@
     "test": "make test && make clean"
   },
   "optionalDependencies": {
-    "bcrypt": "~0.7.0",
+    "bcrypt": "~0.8.0",
     "redis": ">= 0.7.1"
   },
   "dependencies": {
     "directory": "0.0.x",
     "mongoose": "~3.5.8",
-    "bcrypt": "~0.8.0",
+    "bcrypt": "~0.7.0",
     "redis": ">= 0.7.1"
   },
   "devDependencies": {
